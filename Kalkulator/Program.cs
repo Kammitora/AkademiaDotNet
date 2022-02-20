@@ -15,6 +15,8 @@ namespace Kalkulator
                 Console.WriteLine("Podaj pierwszą liczbę");
                 var number1 = GetInput();
 
+
+
                 Console.WriteLine("Operacja: (dozwolone: +, -, /, *)");
                 var action = Console.ReadLine();
 
